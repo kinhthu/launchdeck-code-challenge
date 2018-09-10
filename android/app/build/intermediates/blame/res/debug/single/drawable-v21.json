@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/kinhthu/Desktop/challenge/launchdeck-code-challenge/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/kinhthu/.android/build-cache/2955314d4b64c752c8929304b844ed1e4d41d5c9/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/kinhthu/Desktop/challenge/launchdeck-code-challenge/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/kinhthu/.android/build-cache/67c48425d77afa0a88004559c233643f29876139/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/kinhthu/Desktop/challenge/launchdeck-code-challenge/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/kinhthu/.android/build-cache/67c48425d77afa0a88004559c233643f29876139/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/kinhthu/Desktop/challenge/launchdeck-code-challenge/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/kinhthu/.android/build-cache/67c48425d77afa0a88004559c233643f29876139/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

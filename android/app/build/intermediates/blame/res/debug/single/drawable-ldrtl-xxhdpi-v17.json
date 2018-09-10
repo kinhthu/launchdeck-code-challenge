@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/kinhthu/Desktop/challenge/launchdeck-code-challenge/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/kinhthu/.android/build-cache/67c48425d77afa0a88004559c233643f29876139/output/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/kinhthu/Desktop/challenge/launchdeck-code-challenge/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/kinhthu/.android/build-cache/67c48425d77afa0a88004559c233643f29876139/output/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/kinhthu/Desktop/challenge/launchdeck-code-challenge/android/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/kinhthu/.android/build-cache/67c48425d77afa0a88004559c233643f29876139/output/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    }
+]

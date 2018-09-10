@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/kinhthu/Desktop/challenge/launchdeck-code-challenge/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/kinhthu/.android/build-cache/67c48425d77afa0a88004559c233643f29876139/output/res/values-v13/values-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 58,
+                        "endOffset": 109
+                    }
+                }
+            }
+        ]
+    }
+]

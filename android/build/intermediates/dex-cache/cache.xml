@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/kinhthu/.android/build-cache/c4947937332c53fbc88e7c88880375be1857f55e/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/kinhthu/Desktop/challenge/launchdeck-code-challenge/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_89c4b8af9dbe8afb38814fe97b30493b8396b37b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kinhthu/.android/build-cache/c4947937332c53fbc88e7c88880375be1857f55e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="852750162fda1e0c8985d903d070a0335cf73e4d">
+        <dex dex="/Users/kinhthu/Desktop/challenge/launchdeck-code-challenge/android/app/build/intermediates/pre-dexed/debug/classes_b00a8b01decb9d811403513919a19a0d644cc185.jar" />
+    </item>
+
+</items>

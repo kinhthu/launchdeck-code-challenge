@@ -1,0 +1,47 @@
+[
+    {
+        "outputFile": "/Users/kinhthu/Desktop/challenge/launchdeck-code-challenge/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 65,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "/Users/kinhthu/.android/build-cache/2955314d4b64c752c8929304b844ed1e4d41d5c9/output/res/values-v16/values-v16.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 65,
+                        "endOffset": 116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 121,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 289
+                },
+                "from": {
+                    "file": "/Users/kinhthu/.android/build-cache/67c48425d77afa0a88004559c233643f29876139/output/res/values-v16/values-v16.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 223
+                    }
+                }
+            }
+        ]
+    }
+]
